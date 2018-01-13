@@ -2,3 +2,10 @@ node_modules/
 browser/
 dist/
 .idea
+
+*.iml
+*.ipr
+*.iws
+package-lock.json
+.DS_Store
+config.json
